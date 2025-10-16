@@ -21,4 +21,4 @@ https://www.cgtrader.com/items/3040406/download-page
 
 
 Summary
-I made a simple cabin with a bed places for storage, rug, a fan and some books for entertainment. Additionally I felt like the cabins bedroom had everything i would want to add in it but it didnt feel like a cabin, so i creaated a terrain. The cabin is surrounded by hills with birch and oak trees and some grass. For this project I used gemini to get a code that makes interacting with a light switch activate the fan. I also learned how to create grass and paint a terrain. 
+I made a simple cabin with a bed, places for storage, rug, a fan, and some books for entertainment. I felt like the cabins bedroom had everything i would want to add but it didnt feel like a cabin, so i creaated a terrain. The cabin is surrounded by hills with birch and oak trees and some grass. For this project I used gemini to get a code that makes interacting with a light switch activate the fan. I also learned how to create grass and paint a terrain. 
